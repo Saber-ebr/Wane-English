@@ -4,12 +4,13 @@ layout: default
 
 <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
 
-# Wane English
+
+---
+
 ## Privacy Policy
 
 Last updated: **October 11, 2026**
 
----
 
 ## Introduction
 
