@@ -99,9 +99,8 @@ This Privacy Policy may be updated in the future. For significant changes:
 
 ## 8. Contact Us
 
-- **Email:** [your@email.com](mailto:your@email.com)
-- **Website:** [waneacademy.com](https://waneacademy.com)
+- **Email:** [wanedev1997@gmail.com](mailto:wanedev1997@gmail.com)
 
 ---
 
-*© Wane Academy · waneacademy.com*
+*© Wane Academy · 2026 *
