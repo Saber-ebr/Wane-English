@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Privacy Policy
 ---
 
 # Privacy Policy
@@ -100,7 +99,7 @@ This Privacy Policy may be updated in the future. For significant changes:
 
 ## 8. Contact Us
 
-- **Email:** [YOUR_EMAIL]
+- **Email:** [your@email.com](mailto:your@email.com)
 - **Website:** [waneacademy.com](https://waneacademy.com)
 
 ---
