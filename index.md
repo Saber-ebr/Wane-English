@@ -14,7 +14,7 @@ Last updated: **October 11, 2026**
 
 ## Introduction
 
-This document is the Privacy Policy for the **Wane English** application (hereinafter "the App"), developed by **Wane Development Team**. The App is designed to teach English to Persian and Kurdish speakers. We are committed to protecting our users' privacy, and this document transparently explains what information is collected and how it is used.
+This document is the Privacy Policy for the **Wane English** application (hereinafter "the App"), developed by **Sirvan Bodagh and Wane Development Team**. The App is designed to teach English to Persian and Kurdish speakers. We are committed to protecting our users' privacy, and this document transparently explains what information is collected and how it is used.
 
 ## 1. Information We Collect
 
@@ -107,4 +107,4 @@ This Privacy Policy may be updated in the future. For significant changes:
 
 ---
 
-* © Wane Development Team · 2026 *
+* © Sirvan Bodagh and Wane Development Team · 2026 *
