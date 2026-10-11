@@ -107,4 +107,4 @@ This Privacy Policy may be updated in the future. For significant changes:
 
 ---
 
-*© Wane Academy · 2026 *
+* © Wane Academy · 2026 *
