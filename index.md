@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
+
 # Wane English
 ## Privacy Policy
 
