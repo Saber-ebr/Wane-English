@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Privacy Policy
+# Wane English
 
-**Wane English** · Last updated: **October 11, 2026**
+**Privacy Policy** · Last updated: **October 11, 2026**
 
 ---
 
