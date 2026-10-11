@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Wane English
+## Privacy Policy
 
 **Privacy Policy** · Last updated: **October 11, 2026**
 
