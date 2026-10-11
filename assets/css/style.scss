@@ -222,3 +222,28 @@ a:hover {
     padding: 0.5rem 0.6rem;
   }
 }
+
+/* ============================================================
+   Hide unwanted header elements
+   ============================================================ */
+
+/* 1. حذف "Skip to the content" */
+#skip-to-content {
+  display: none !important;
+}
+
+/* 2. حذف tagline تکراری (Privacy Policy) */
+.page-header .project-tagline {
+  display: none !important;
+}
+
+/* 3. حذف "View on GitHub" */
+.page-header .btn {
+  display: none !important;
+}
+
+/* اضافی: مخفی کردن دکمه‌های دانلود (اگه هستن) */
+.page-header .downloads,
+.page-header .zip-download-container {
+  display: none !important;
+}
