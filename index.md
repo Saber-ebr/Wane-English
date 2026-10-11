@@ -105,4 +105,4 @@ This Privacy Policy may be updated in the future. For significant changes:
 
 ---
 
-*Wane Academy · waneacademy.com*
+*© Wane Academy · waneacademy.com*
