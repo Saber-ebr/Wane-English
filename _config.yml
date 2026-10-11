@@ -1,6 +1,6 @@
 title: Wane English
 description: Privacy Policy
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
 show_downloads: false
-github:
-  is_project_page: false
