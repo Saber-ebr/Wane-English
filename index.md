@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<link rel="icon" type="image/x-icon"
-      href="https://saber-ebr.github.io/Wane-English/assets/favicon.ico">
+
 ---
 
 ## Privacy Policy
